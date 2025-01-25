@@ -6,7 +6,7 @@
             "version": "latest"
         }
     },
-    "postStartCommand": "bash start.sh /workspaces/user404/start.sh",
+    "postStartCommand": "bash /workspaces/user404/start.sh",
     "customizations": {
         "vscode": {
             "settings": {
